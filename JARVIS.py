@@ -4,7 +4,7 @@ import datetime
 import webbrowser
 import wikipedia
 import time
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 import speech_recognition as sr
 
 class JARVIS:
